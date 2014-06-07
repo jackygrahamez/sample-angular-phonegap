@@ -7,7 +7,7 @@ Install Node.JS and Bower
 
 Globally install phonegap and [yeoman/generator-angular][generator-angular] :
 
-    ### `npm install -g phonegap cordova generator-angular`
+`npm install -g phonegap cordova generator-angular`
 
 
 
